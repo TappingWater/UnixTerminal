@@ -1,0 +1,8 @@
+[?1034hesh> sleep 30 &sleep 30 &
+
+[1] 26410
+esh> kill 1kill 1
+
+esh> exitexit
+
+Could not find commandNo such file or directory
