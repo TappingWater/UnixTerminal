@@ -4,7 +4,7 @@ This shell will interpret the input as the name of a program to be executed, alo
 # Functionality
 Built In Command Functionality. (jobs, fg, bg, kill, stop) </br>
 Job Control </br>
-Singal Handling (CTRL+Z (SIGSTP), CTRL+C (SIGINT) </br>
+Singal Handling (CTRL+Z (SIGSTP), CTRL+C (SIGINT)) </br>
 Pipes and I/O Redirection.
 
 # Installation
